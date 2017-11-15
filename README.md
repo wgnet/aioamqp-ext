@@ -1,4 +1,4 @@
-# Asynchronous AMQP base Consumer and Producer.
+# Asynchronous AMQP base Consumer and Producer
 
 AMQP Consumer and Producer base classes. Working on top of `aioamqp`.
 
