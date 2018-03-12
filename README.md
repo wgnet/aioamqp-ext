@@ -1,5 +1,8 @@
 # Asynchronous AMQP base Consumer and Producer
 
+[![PyPI](https://img.shields.io/pypi/v/aioamqp-ext.svg?maxAge=3600)](https://pypi.python.org/pypi/aioamqp-ext)
+[![Python Versions](https://img.shields.io/pypi/pyversions/aioamqp-ext.svg?maxAge=3600)](https://pypi.python.org/pypi/aioamqp-ext)
+
 AMQP Consumer and Producer base classes. Working on top of `aioamqp`.
 
 ## Usage
